@@ -1,0 +1,10 @@
+﻿Intent,Utterance,Operation,Symbol,Price
+BuyMarket,Buy MSFT,Buy,MSFT,
+BuyMarket,Buy AAPL,Buy,AAPL,
+BuyMarket,Purchase MSFT,Purchase,MSFT,
+BuyMarket,Acquire MSFT,Acquire,MSFT,
+BuyLimit,MSFT buy at 55.55,buy,MSFT,55.55
+BuyLimit,Buy MSFT at 65.55,Buy,MSFT,65.55
+BuyLimit,Buy AAPL at 12.25,Buy,AAPL,12.25
+BuyLimit,Loadup MSFT at 75,Loadup,MSFT,75
+BuyLimit,Purchase MSFT at 12,Purchase,MSFT,12
